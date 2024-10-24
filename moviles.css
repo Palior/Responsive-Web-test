@@ -1,0 +1,15 @@
+.container {width:95%; margin-right:auto; margin-left:auto;}
+@media (max-width: 768px){
+body {
+ background: white;
+ margin: 0;
+}
+h1 {
+ color: darkred;
+ text-shadow: 0 0 5px rgb(0, 0, 0);
+}
+div {
+ font-family: verdana; 
+ color: black;
+}
+}
